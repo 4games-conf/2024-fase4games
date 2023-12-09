@@ -1,5 +1,5 @@
 title = "FaSE4Games '2024"
-baseURL = "https://2024.fase4games.quest"
+baseURL = "https://fase4games.quest"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
